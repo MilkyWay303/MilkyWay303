@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on JS and Python projects;
 - 🌱 I’m currently learning JavaScript and Python;
-- 👯 I’m looking to collaborate on everything I can manage:
-- 📫 How to reach me: Discord -- milkyway303
+- 👯 I’m looking to collaborate on everything I can manage;
+- 📫 How to reach me: Discord -- milkyway303;
 <!---- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
 - 😄 Pronouns: ... 
